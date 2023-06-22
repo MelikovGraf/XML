@@ -1,6 +1,9 @@
-{
-"name": "Graf",
-"surname": "Melikov",
-"age": 28,
-"gender": "male"
-}
+<name>Graf</name>
+<surname>Melikov</surname>
+<age>28</age>
+<family>
+	<wife>Kristina</wife>
+	<father>Nazim</father>
+	<mother>Regan</mother>
+
+</family>
