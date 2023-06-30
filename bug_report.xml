@@ -1,3 +1,17 @@
-<bugs>
-  <first bag>Not tittle<first bag>
- </bags>
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+      <id>QAS_26</id>
+      <title>Homepage:_the_Menu_isn’t_pinned_at_the_top</title>
+      <description>
+             <Preconditions>Open_the_SendyBird_site</Preconditions>
+             <Steps_to_reproduce>
+                       <first>Try_to_click_all_of_the_menu_items_and_check_if_the_menu_is_pinned_at_the_top</first>
+                       <second>Try_to_scroll_the_page_down_and_check_if_the_menu_is_pinned_at_the_top</second>
+             </Steps_to_reproduce>
+             <Actual_result>the_Menu_isn’t_pinned_at_the_top_during_the_scroling_or_being_in_any_of_the_menu_items</Actual_result>
+             <Expected_result>the_Menu_is_pinned_at_the_top_always_when_scrolling_the_page_down_or_being in any of the menu items</Expected_result>
+             <Priority>high</Priority>
+             <Reproducibility>always</Reproducibility>
+             <Attachmants>video_link</Attachmants>
+      </description>
+</xml>
