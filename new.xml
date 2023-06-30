@@ -1,4 +1,6 @@
-<name>Graf</name>
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<name>Graf</name>
 <surname>Melikov</surname>
 <age>28</age>
 <animals>
@@ -6,3 +8,4 @@
 	<cat>Lapka</cat>
 </animals>
 <next_salary>25000</next_salary>
+</xml>
