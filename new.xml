@@ -1,9 +1,8 @@
 <name>Graf</name>
 <surname>Melikov</surname>
 <age>28</age>
-<family>
-	<wife>Kristina</wife>
-	<father>Nazim</father>
-	<mother>Regan</mother>
-
-</family>
+<animals>
+	<dog>Johny</dog>
+	<cat>Lapka</cat>
+</animals>
+<next_salary>25000</next_salary>
