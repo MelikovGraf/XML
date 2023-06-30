@@ -1,5 +1,8 @@
-<film>Revolver</film>
-<serial>Lost</serial>
-<food>Pizza</food>
-<season>Summer</season>
-<country>Germany</country>
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <film>Revolver</film>
+  <serial>Lost</serial>
+  <food>Pizza</food>
+  <season>Summer</season>
+  <country>Germany</country>
+</xml>
