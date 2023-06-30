@@ -1,10 +1,13 @@
-<soft_skill>
-  <first>agile</first>
-  <second>homeworking</second>
-  <third>distantion workind</third>
-</soft_skill>
-<hard_skill> 
-  <first>postman</first>
-  <second>json</second>
-  <third>web-server</third>
-<hard_skill>
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <soft_skill>
+    <first>agile</first>
+    <second>homeworking</second>
+    <third>distantion workind</third>
+  </soft_skill>
+  <hard_skill> 
+    <first>postman</first>
+    <second>json</second>
+    <third>web-server</third>
+  <hard_skill>
+  </xml>
